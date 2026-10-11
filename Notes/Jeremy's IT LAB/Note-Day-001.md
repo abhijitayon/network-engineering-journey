@@ -1,6 +1,6 @@
 # Network Devices
 
-![network](D:\Networking%20Engineering\Networking%20Engineering%20Journey\images\Network.png)
+![network](..images\Network.png)
 
 ![router](D:\Networking%20Engineering\Networking%20Engineering%20Journey\images\router.png)
 
