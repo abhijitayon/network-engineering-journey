@@ -1,6 +1,6 @@
 # Network Devices
 
-![Network](../images/Network.png)
+![Network](https://github.com/abhijitayon/network-engineering-journey/blob/main/images/Network.png)
 
 ![router](D:\Networking%20Engineering\Networking%20Engineering%20Journey\images\router.png)
 
