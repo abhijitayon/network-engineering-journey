@@ -6,25 +6,23 @@
 
 ## Client (Who Requests)
 
-A client is a device that accesses a service made available by a server
+>  A client is a device that accesses a service made available by a server
 
 ## Server (Who Provides)
 
-A server is a device that provides functions and services to a client
+>  A server is a device that provides functions and services to a client
 
 ## The Internet (Cloud Sign)
 
-The cloud sign between client and server represents as a complex network of devices that connects clients and servers.
+> The cloud sign between client and server represents as a complex network of devices that connects clients and servers.
 
 *Same device can be client and server sometimes depending on situation*
 
 ## Switches
 
-Switches works on LAN (Local Area Network) that connects all the devices in a network using MAC addresses. Switches *cant be connected to internet* using LAN's.
+> Switches works on LAN (Local Area Network) that connects all the devices in a network using MAC addresses. Switches *cant be connected to internet* using LAN's.
 
 
-
-Cisco's Enterprise grade switches
 
 Switches
 
@@ -36,7 +34,9 @@ Switches
 
 ## Routers
 
-A router is used to connect 2  switches/LAN to the INTERNET so that they can communicate from anywhere. 
+> A router is used to connect 2  switches/LAN to the INTERNET so that they can communicate from anywhere. 
+
+Routers
 
 - Fewer network ports than switches
 
@@ -56,17 +56,25 @@ A router is used to connect 2  switches/LAN to the INTERNET so that they can com
 
 ![firewall](https://github.com/abhijitayon/network-engineering-journey/blob/main/others/Png/images/firewallpng.png)
 
----A software firewall runs on a computer or server rather than requiring a dedicated firewall appliance.  **(Host-based Firewalls)**
+>  ---A software firewall runs on a computer or server rather than requiring a dedicated firewall appliance.  **(Host-based Firewalls)**
+
+
 
 For example, your HP Envy laptop running Windows has **Microsoft Defender Firewall**.
 
----A hardware firewall is a **physical device that inspects and controls network traffic** according to configured security rules.  **(Network Firewalls)**
+
+
+>  ---A hardware firewall is a **physical device that inspects and controls network traffic** according to configured security rules.  **(Network Firewalls)**
+
+
 
 It is typically installed between a network and the internet, although firewalls can also protect internal network segments.
 
 ![firewall2](https://github.com/abhijitayon/network-engineering-journey/blob/main/others/Png/images/2firewallpng.png)
 
----A cloud firewall is a firewall capability delivered through a cloud platform or service.
+>  ---A cloud firewall is a firewall capability delivered through a cloud platform or service.
+
+
 
 For example, a company hosting its application in the cloud may use firewall rules to restrict which network connections can reach its virtual servers.
 
