@@ -1,17 +1,11 @@
 # Anki FlashCard Software
 
-![Anki](https://github.com/abhijitayon/image-holder/blob/main/Network%20Engineering%20Journey/Screenshot%20%28250%29.png)
+![Anki](../../others/images/Screenshot250.png)
 
+### Click on the ANKI files from the provided file folder
 
+![Opening anki files](../../others/images/Screenshot251.png)
 
-Click on the ANKI files from the provided file folder
+### After that click on the decs gear icon and select 999 as shown for not limiting to 20 cards
 
-![Opening anki files](https://github.com/abhijitayon/image-holder/blob/main/Network%20Engineering%20Journey/Screenshot%20%28251%29.png)
-
-
-
-After that click on the decs gear icon and select 999 as shown for not limiting to 20 cards
-
-![Cards amnt](https://github.com/abhijitayon/image-holder/blob/main/Network%20Engineering%20Journey/Screenshot%20%28252%29.png)
-
-
+![Cards amnt](../../others/images/Screenshot252.png)

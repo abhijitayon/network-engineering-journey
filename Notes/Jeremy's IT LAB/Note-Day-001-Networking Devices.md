@@ -2,7 +2,7 @@
 
 ![Network](../../others/images/Network.png)
 
-![Network](https://github.com/abhijitayon/network-engineering-journey/blob/main/others/Png/images/router.png)
+![Network](../../others/images/router.png)
 
 ## Client (Who Requests)
 
@@ -40,7 +40,7 @@ Routers
 
 - Connectrs between 2 LAN's
 
-![Routers](https://github.com/abhijitayon/network-engineering-journey/blob/main/others/Png/images/routerspng.png)
+![Routers](../../others/images/routerspng.png)
 
 ## Firewalls
 
@@ -52,7 +52,7 @@ Routers
 
 - Is configured so that it know which traffic gets access and which one dont
 
-![firewall](https://github.com/abhijitayon/network-engineering-journey/blob/main/others/Png/images/firewallpng.png)
+![firewall](../../others/images/firewallpng.png)
 
 >  ---A software firewall runs on a computer or server rather than requiring a dedicated firewall appliance.  **(Host-based Firewalls)**
 
@@ -62,7 +62,7 @@ For example, your HP Envy laptop running Windows has **Microsoft Defender Firewa
 
 It is typically installed between a network and the internet, although firewalls can also protect internal network segments.
 
-![firewall2](https://github.com/abhijitayon/network-engineering-journey/blob/main/others/Png/images/2firewallpng.png)
+![firewall2](../../others/images/2firewallpng.png)
 
 >  ---A cloud firewall is a firewall capability delivered through a cloud platform or service.
 
