@@ -1,6 +1,6 @@
 # Network Devices
 
-![Network](https://github.com/abhijitayon/network-engineering-journey/blob/main/others/Png/images/Network.png)
+![Network](networking-engineering-journey/others/images/Network.png)
 
 ![Network](https://github.com/abhijitayon/network-engineering-journey/blob/main/others/Png/images/router.png)
 
@@ -21,8 +21,6 @@
 ## Switches
 
 > Switches works on LAN (Local Area Network) that connects all the devices in a network using MAC addresses. Switches *cant be connected to internet* using LAN's.
-
-
 
 Switches
 
@@ -58,23 +56,15 @@ Routers
 
 >  ---A software firewall runs on a computer or server rather than requiring a dedicated firewall appliance.  **(Host-based Firewalls)**
 
-
-
 For example, your HP Envy laptop running Windows has **Microsoft Defender Firewall**.
 
-
-
 >  ---A hardware firewall is a **physical device that inspects and controls network traffic** according to configured security rules.  **(Network Firewalls)**
-
-
 
 It is typically installed between a network and the internet, although firewalls can also protect internal network segments.
 
 ![firewall2](https://github.com/abhijitayon/network-engineering-journey/blob/main/others/Png/images/2firewallpng.png)
 
 >  ---A cloud firewall is a firewall capability delivered through a cloud platform or service.
-
-
 
 For example, a company hosting its application in the cloud may use firewall rules to restrict which network connections can reach its virtual servers.
 
