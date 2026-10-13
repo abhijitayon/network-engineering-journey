@@ -1,0 +1,4 @@
+![](../../others/images/Network.png)
+
+
+This format is to be used while importing images for .md files
